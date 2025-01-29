@@ -5,3 +5,5 @@ This is my readme file for Lab 1 of Fullstack! This repository will be used for 
 My Name is Nattar, I am Elisha's collaborator.
 
 Local changes made by Elisha.
+
+Remote changes made by Elisha.
